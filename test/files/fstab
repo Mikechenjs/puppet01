@@ -6,6 +6,5 @@
 # Accessible filesystems, by reference, are maintained under '/dev/disk'
 # See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info
 #
-UUID=3fba4054-112f-48f4-bb36-28220e724e40 /                       xfs     defaults        0 0
-UUID=4216cd87-755b-42d8-a7f1-56a5ab6a95a8 /boot                   xfs     defaults        0 0
-UUID=9acd0d09-0e8a-492a-aaa9-8cc7003eba1a swap                    swap    defaults        0 0
+
+This is a test file
