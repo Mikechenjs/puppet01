@@ -2,7 +2,7 @@ class test{
 file {"/tmp/$hostname.txt":content =>"hello world!";}
 }
 
-node docker01.gbnc.om {
+node docker01.gbnc.com {
 	include nginx
 }
 
